@@ -26,4 +26,4 @@ while (guess != user_pass):
     print(guess)
     
 # printing the matched password
-print("Your password is
+print("Your password is")
